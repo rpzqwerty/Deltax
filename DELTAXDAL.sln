@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELTAXDAL", "DELTAXDAL\DELTAXDAL.csproj", "{D4ECE3FB-2B18-41A1-A714-B56CB22A5BDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaxWebApp", "DeltaxWebApp\DeltaxWebApp.csproj", "{BD17EE08-A819-4E60-86EE-3DAD0AEB6C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D4ECE3FB-2B18-41A1-A714-B56CB22A5BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4ECE3FB-2B18-41A1-A714-B56CB22A5BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4ECE3FB-2B18-41A1-A714-B56CB22A5BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD17EE08-A819-4E60-86EE-3DAD0AEB6C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD17EE08-A819-4E60-86EE-3DAD0AEB6C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD17EE08-A819-4E60-86EE-3DAD0AEB6C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD17EE08-A819-4E60-86EE-3DAD0AEB6C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
